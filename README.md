@@ -30,12 +30,4 @@
 
 <p align="left">Futuro ingeniero en software (Espero)</p>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alem556/Alem556/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alem556/Alem556/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alem556/Alem556/output/pacman-contribution-graph.svg">
-</picture>
-
-###
